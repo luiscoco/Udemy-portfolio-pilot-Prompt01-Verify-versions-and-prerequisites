@@ -1,4 +1,4 @@
-# PortfolioPilot — Learning activities 00 and 01
+# Verify versions and prerequisites
 
 PortfolioPilot is a planned stock portfolio manager with holdings, live news, watchlists, alerts, and portfolio-aware AI chat. Its application runtime will use the Claude Agent SDK. The course builds it one milestone at a time. **There is no runnable application yet.**
 
